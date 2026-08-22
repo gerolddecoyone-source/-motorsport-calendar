@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Alexander Motorsport Calendars//GTWC Europe 2026//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:GTWC Europe 2026
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:GTWCE-2026-1@alexander-motorsport-calendar
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260413
+SUMMARY:🏁 🇫🇷 GTWC Europe - Paul Ricard
+LOCATION:Paul Ricard\, FRA
+DESCRIPTION:GT World Challenge Europe 2026 • Round 1 - Endurance 6h • время по Москве
+END:VEVENT
+BEGIN:VEVENT
+UID:GTWCE-2026-2@alexander-motorsport-calendar
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260504
+SUMMARY:🏁 🇬🇧 GTWC Europe - Brands Hatch
+LOCATION:Brands Hatch\, GBR
+DESCRIPTION:GT World Challenge Europe 2026 • Round 2 - Sprint • время по Москве
+END:VEVENT
+BEGIN:VEVENT
+UID:GTWCE-2026-3@alexander-motorsport-calendar
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260601
+SUMMARY:🏁 🇮🇹 GTWC Europe - Monza
+LOCATION:Monza\, ITA
+DESCRIPTION:GT World Challenge Europe 2026 • Round 3 - Endurance 3h • время по Москве
+END:VEVENT
+BEGIN:VEVENT
+UID:GTWCE-2026-4@alexander-motorsport-calendar
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260629
+SUMMARY:🏁 🇧🇪 GTWC Europe - Spa-Francorchamps
+LOCATION:Spa-Francorchamps\, BEL
+DESCRIPTION:GT World Challenge Europe 2026 • Round 4 - CrowdStrike 24 Hours of Spa • время по Москве
+END:VEVENT
+BEGIN:VEVENT
+UID:GTWCE-2026-5@alexander-motorsport-calendar
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260720
+SUMMARY:🏁 🇮🇹 GTWC Europe - Misano
+LOCATION:Misano\, ITA
+DESCRIPTION:GT World Challenge Europe 2026 • Round 5 - Sprint • время по Москве
+END:VEVENT
+BEGIN:VEVENT
+UID:GTWCE-2026-6@alexander-motorsport-calendar
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260803
+SUMMARY:🏁 🇫🇷 GTWC Europe - Magny-Cours
+LOCATION:Magny-Cours\, FRA
+DESCRIPTION:GT World Challenge Europe 2026 • Round 6 - Sprint • время по Москве
+END:VEVENT
+BEGIN:VEVENT
+UID:GTWCE-2026-7@alexander-motorsport-calendar
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260831
+SUMMARY:🏁 🇩🇪 GTWC Europe - Nürburgring
+LOCATION:Nürburgring\, DEU
+DESCRIPTION:GT World Challenge Europe 2026 • Round 7 - Endurance 3h • время по Москве
+END:VEVENT
+BEGIN:VEVENT
+UID:GTWCE-2026-8@alexander-motorsport-calendar
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260921
+SUMMARY:🏁 🇳🇱 GTWC Europe - Zandvoort
+LOCATION:Zandvoort\, NLD
+DESCRIPTION:GT World Challenge Europe 2026 • Round 8 - Sprint • время по Москве
+END:VEVENT
+BEGIN:VEVENT
+UID:GTWCE-2026-9@alexander-motorsport-calendar
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+SUMMARY:🏁 🇪🇸 GTWC Europe - Barcelona
+LOCATION:Barcelona\, ESP
+DESCRIPTION:GT World Challenge Europe 2026 • Round 9 - Sprint • время по Москве
+END:VEVENT
+BEGIN:VEVENT
+UID:GTWCE-2026-10@alexander-motorsport-calendar
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+SUMMARY:🏁 🇵🇹 GTWC Europe - Portimão
+LOCATION:Portimão\, PRT
+DESCRIPTION:GT World Challenge Europe 2026 • Round 10 - Endurance 3h • время по Москве
+END:VEVENT
+END:VCALENDAR
